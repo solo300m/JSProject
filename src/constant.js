@@ -1,0 +1,1 @@
+export const STR = 'App init!!!! Cool!'
