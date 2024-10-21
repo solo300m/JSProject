@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/solo300m/JSProject/issues"
   },
-  "homepage": "https://github.com/solo300m/JSProject#readme"
+  "homepage": "https://github.com/solo300m/JSProject#readme",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "webpack": "^5.95.0"
+  }
 }
